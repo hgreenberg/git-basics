@@ -6,4 +6,15 @@ Remote repo to help test out Git skilz
 ## H2 Header 2
 ### H3 Header 3
 ---
+1. First item
+2. Second item
+3. Third item
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
